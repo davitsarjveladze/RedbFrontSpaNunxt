@@ -126,6 +126,11 @@ export default {
       handler () {
         this.makeParamsForPosts();
       }
+    },
+    'currentPage' : {
+      handler () {
+        this.makeParamsForPosts();
+      }
     }
   }
 }
